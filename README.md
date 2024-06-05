@@ -1,2 +1,8 @@
-# BangkitCapstoneML
-end to end ML Progress for the AIReal Application
+# Bangkit Capstone ML Progress
+End to end ML Progress for the AIReal Application <br>
+Berisi tentang :
+<ol>
+  <li>Dataset</li>
+  <li>Code untuk Preprocessing</li>
+  <li>Model DL untuk klasifikasi gambar blur atau nonblur</li>
+</ol>
